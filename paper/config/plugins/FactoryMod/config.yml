@@ -7054,6 +7054,13 @@ recipes:
           amount: 1
           nbt:
             SkullOwner: Wingzero54
+      Blob_skull:
+        chance: 0.0010294117
+        Blob_skull:
+          material: PLAYER_HEAD
+          amount: 1
+          nbt:
+            SkullOwner: Blob
       SoundTech_skull:
         chance: 0.0010294117
         SoundTech_skull:
